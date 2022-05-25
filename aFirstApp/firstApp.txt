@@ -1,0 +1,12 @@
+make a network request to fetch some JSON and print the result
+
+1. Take a look at the API we'll use to fetch data
+2. create a new project directory
+3. create a package.json file
+4. install axios to make a request
+5. Write Code!
+
+# npx tsc index.ts --> Erzeugt eine index.js Datei 
+# die man mit node ausführen kanner
+
+# Alternative dazu ist die Ausführung mit dem command --> ts-node
